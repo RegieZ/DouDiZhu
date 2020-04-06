@@ -16,7 +16,7 @@ import java.util.HashMap;
  * 排序
  * 看牌
  */
-public class test {
+public class Test {
     public static void main(String[] args) {
         //准备牌
         //定义一个Map集合用来存储牌号和牌
